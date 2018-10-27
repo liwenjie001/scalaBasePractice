@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalabasepractice.iml" filepath="$PROJECT_DIR$/.idea/modules/scalabasepractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaBasePractice.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaBasePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalabasepractice-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalabasepractice-build.iml" />
     </modules>
   </component>
 </project>
